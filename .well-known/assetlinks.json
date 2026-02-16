@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.juniorsotelo273_spec.twa",
+        "sha256_cert_fingerprints": ["F8:21:BF:05:90:AB:68:57:81:8B:53:FF:FE:01:21:15:03:8E:3F:FA:32:42:36:51:E0:6B:F7:60:62:EB:BD:59"]
+      }
+    }]
